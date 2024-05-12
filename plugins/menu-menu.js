@@ -26,7 +26,7 @@ let tags = {
 
 const defaultMenu = {
   before: `
-*「 ✦ Igna • Bot ✦ 」*
+*「 ✦ Haru • Bot ✦ 」*
 
 *╭━━━━━━━∙⋆⋅⋆∙━━━━━━━━╮*
 *➤📝 Nombre* : %name
@@ -36,10 +36,10 @@ const defaultMenu = {
 *╰━━━━━━━∙⋆⋅⋆∙━━━━━━━━╯*
 
 *╭━━━━━━━∙⋆⋅⋆∙━━━━━━━━╮*
-*➤🗣️ Creador* : Daniel 🇦🇱
-*➤📲 Número* : wa.me/51955918117
+*➤🗣️ Creador* : Haru
+*➤📲 Número* : wa.me/+5493704813556
 *➤⌛ Tiempo* : %uptime
-*➤🎌 Grupo* :https://chat.whatsapp.com/Kw0ow5PyFN62GBs8rJT5Kv
+*➤🎌 Grupo* : https://chat.whatsapp.com/L1UU3fGX4SYGmwivmkglg9
 *╰━━━━━━━∙⋆⋅⋆∙━━━━━━━━╯*
 
 %readmore
